@@ -1,0 +1,16 @@
+/* Criando class por div */
+.login-center{
+    background-color: rgb(255, 51, 0);
+    border-radius: 2%;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 5%;
+    text-align: center;
+}
+/* criando por normal */
+footer {
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(116, 111, 111);
+}
